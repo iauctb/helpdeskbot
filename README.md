@@ -46,3 +46,11 @@ As long as you want your bot responding, keep this running. When you want to sto
 
 # Contribute
 Copyright (C) 2016 Júlia Rizza & licensed under MIT License
+
+# *TODO* :
+- [ ] Add Docuemnt for Generating mo files from po files
+- [ ] Generate po file for Persian Language
+- [ ] Write Document about user_id 
+- [ ] Write Docuemnt about creating a virtualenv for project
+- [ ] Restructuring main.py so it can be run like this : python main.py
+- [ ] Discuss how to handle multiple operator 
