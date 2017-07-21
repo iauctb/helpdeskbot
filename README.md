@@ -48,9 +48,9 @@ As long as you want your bot responding, keep this running. When you want to sto
 Copyright (C) 2016 Júlia Rizza & licensed under MIT License
 
 # *TODO* :
-- [ ] Add Docuemnt for Generating mo files from po files
+- [ ] Add Documents for Generating mo files from po files
 - [ ] Generate po file for Persian Language
-- [ ] Write Document about user_id 
-- [ ] Write Docuemnt about creating a virtualenv for project
+- [ ] Write Documents about user_id 
+- [ ] Write Documents about creating a virtualenv for project
 - [ ] Restructuring main.py so it can be run like this : python main.py
-- [ ] Discuss how to handle multiple operator 
+- [ ] Discuss how to handle multiple operators
